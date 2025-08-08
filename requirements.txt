@@ -1,0 +1,7 @@
+# Python QuickStart Course Requirements
+# This course uses only Python standard library modules
+# No external dependencies required for basic functionality
+
+# Optional dependencies for enhanced features (uncomment if needed):
+# colorama>=0.4.4  # For colored terminal output on Windows
+# rich>=10.0.0     # For enhanced terminal formatting

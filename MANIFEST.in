@@ -1,0 +1,23 @@
+# Include documentation files
+include README.md
+include LICENSE
+include requirements.txt
+include cheatsheet.md
+include resources.md
+
+# Include all lesson files
+recursive-include lessons *.md *.py
+recursive-include projects *.md *.py
+recursive-include exercises *.md *.py
+
+# Include configuration files
+include setup.py
+include MANIFEST.in
+
+# Exclude unnecessary files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *~
+global-exclude .git*
+global-exclude __pycache__
+global-exclude .DS_Store
