@@ -27,7 +27,7 @@ setup(
     description="Learn Python the fastest and easiest way possible with interactive lessons and projects",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/python-quickstart-course",
+    url="https://github.com/wiradjuri/python-quickstart-course",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -60,8 +60,8 @@ setup(
     },
     keywords="python, learning, tutorial, education, programming, beginner, course, interactive",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/python-quickstart-course/issues",
-        "Source": "https://github.com/yourusername/python-quickstart-course",
-        "Documentation": "https://github.com/yourusername/python-quickstart-course#readme",
+        "Bug Reports": "https://github.com/wiradjuri/python-quickstart-course/issues",
+        "Source": "https://github.com/wiradjuri/python-quickstart-course",
+        "Documentation": "https://github.com/wiradjuri/python-quickstart-course#readme",
     },
 )
